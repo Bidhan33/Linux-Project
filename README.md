@@ -1,6 +1,6 @@
 # Network Scanner & Firewall Protection Project 🚀
 
-{{toc}}
+
 
 ## 1. Introduction
 
@@ -167,6 +167,9 @@ http://192.168.1.102/network.php
 |UFW Setup|[ ]|Security implementation|
 |Web Interface Creation|[ ]|Final user interface|
 
+![Screenshot 2024-12-08 140141](https://github.com/user-attachments/assets/2c17ec54-4e70-4ab4-ae5f-0374090f6b48)
+
+
 ## Troubleshooting Guide
 
 |Issue|Solution|Priority|
@@ -184,6 +187,12 @@ http://192.168.1.102/network.php
 * Backup configuration files before making changes
 
 ## Project Status: 🎉 Completed Successfully!
+
+
+![Screenshot 2024-12-06 231338](https://github.com/user-attachments/assets/a31882e1-acc8-44d0-92db-054d9b2ad63c)
+
+
+
 
 [Download Project Files](https://github.com/your-repo-link)
 [Report Issues](https://github.com/your-repo-link/issues)
